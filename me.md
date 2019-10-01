@@ -7,3 +7,4 @@ git config user.email allows you config your email
 git status checks to see changed files
 git commit -m commits files with description
 git log
+echo "# gitclass" >> README.md/;'9
